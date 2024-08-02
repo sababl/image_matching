@@ -56,8 +56,8 @@ python feature_matching.py -s path_to_image1.jpg -d path_to_image2.jpg
 
 # Project Structure
 
-├── feature_matching.py     # Main script for feature matching and visualization <\br>
-├── README.md               # Project documentation <\br>
-├── default_image1.jpg      # Default first image (if provided) <\br>
-├── default_image2.jpg      # Default second image (if provided) <\br>
-└── images/                 # Directory for storing example images <\br>
+├── feature_matching.py     # Main script for feature matching and visualization </br>
+├── README.md               # Project documentation </br>
+├── default_image1.jpg      # Default first image (if provided) </br>
+├── default_image2.jpg      # Default second image (if provided) </br>
+└── images/                 # Directory for storing example images </br>
